@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreedomeF", "FreedomeF\FreedomeF.csproj", "{C87F7F7E-909E-4238-9EA7-B06058EA146A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo2", "..\demo2\demo2\demo2.csproj", "{CFD32E2B-2106-4AA2-9FA0-C89BE12618C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C87F7F7E-909E-4238-9EA7-B06058EA146A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87F7F7E-909E-4238-9EA7-B06058EA146A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87F7F7E-909E-4238-9EA7-B06058EA146A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87F7F7E-909E-4238-9EA7-B06058EA146A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD32E2B-2106-4AA2-9FA0-C89BE12618C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD32E2B-2106-4AA2-9FA0-C89BE12618C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD32E2B-2106-4AA2-9FA0-C89BE12618C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD32E2B-2106-4AA2-9FA0-C89BE12618C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
